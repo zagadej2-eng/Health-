@@ -1,0 +1,5 @@
+{
+  "name": "ImpactOS: Global AI Solutions",
+  "description": "An AI-powered dashboard for addressing climate change, health, waste management, and disaster preparedness.",
+  "requestFramePermissions": ["camera"]
+}
